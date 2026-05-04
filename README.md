@@ -30,6 +30,7 @@ Booki est une agence souhaitant développer un site web permettant aux utilisate
 
 ## 📐 Structure du projet
 
+```
 Booki/
 ├── index.html
 ├── css/
@@ -39,6 +40,7 @@ Booki/
 │   ├── hebergements/
 │   └── logo/
 └── README.md
+```
 
 ## 🎓 Compétences travaillées
 
